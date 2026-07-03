@@ -16,5 +16,4 @@ function clearEntries(){
     document.getElementById('num1').value="";
     document.getElementById('num2').value="";
     document.getElementById('num3').value="";
-    document.getElementById('answer').value="";
 }
