@@ -13,7 +13,8 @@ function jsCalc(){
     document.getElementById('answer').textContent=sum;
 }
 function clearEntries(){
-    document.getElementById('num1').value=""; 
-    document.getElementById('num2').value=""; 
-    document.getElementById('num3').value=""; 
+    document.getElementById('num1').value="";
+    document.getElementById('num2').value="";
+    document.getElementById('num3').value="";
+    document.getElementById('answer').value="";
 }
